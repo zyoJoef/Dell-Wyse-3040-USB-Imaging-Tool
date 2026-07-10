@@ -5,6 +5,8 @@ Documentation about how to obtain the Dell USB Imaging Tool
 
 <a href="https://blog.terenceluk.com/2017/01/where-to-download-wyse-usb-firmware.html">Where to download the latest Wyse USB Firmware Tool / Dell USB Firmware Tool</a>
 
+Unfortunately the website is dead. But luckily we have our good old wayback machine https://web.archive.org/
+
 <a href="https://www.dell.com/support/product-details/en-us/product/wyse-3040-thin-client/drivers">
 
 https://www.dell.com/support/product-details/en-us/product/wyse-3040-thin-client/drivers
