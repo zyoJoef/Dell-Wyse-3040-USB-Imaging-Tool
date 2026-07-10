@@ -72,7 +72,7 @@ Unfortunately the website is dead. But luckily we have our good old wayback mach
 how to create Dell Wyse 3040 bootable USB and installation os | Jordan IT Services
 https://youtu.be/lDb2zUvtP3Q
 
-Do These CHEAP PCs Live Up To The Hype?
+Do These CHEAP PCs Live Up To The Hype? | Hardware Haven
 https://www.youtube.com/watch?v=9C7UGogyTWo
 
 <br>
