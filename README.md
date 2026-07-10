@@ -63,17 +63,17 @@ Unfortunately the website is dead. But luckily we have our good old wayback mach
     <li>After it has installed, reboot your device and you're all set!</li>
   </ol>
 
+<br>
 
+<h1>Dell Wyse 3040 Thin Client Drivers Website</h1>
 <a href="https://www.dell.com/support/product-details/en-us/product/wyse-3040-thin-client/drivers">Wyse 3040 Thin Client Drivers</a>
 
 <br>
+
 <h1>Youtube Video Reference used:</h1>
-
-how to create Dell Wyse 3040 bootable USB and installation os | Jordan IT Services
-https://youtu.be/lDb2zUvtP3Q
-
-Do These CHEAP PCs Live Up To The Hype? | Hardware Haven
-https://www.youtube.com/watch?v=9C7UGogyTWo
+  <a href="https://youtu.be/lDb2zUvtP3Q">how to create Dell Wyse 3040 bootable USB and installation os | Jordan IT Services</a>
+    <br>
+  <a href="https://www.youtube.com/watch?v=9C7UGogyTWo">Do These CHEAP PCs Live Up To The Hype? | Hardware Haven</a>
 
 <br>
 
